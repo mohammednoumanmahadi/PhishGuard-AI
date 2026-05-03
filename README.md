@@ -1,22 +1,39 @@
-# Phishing AI Detection Tool
+# 🛡️ PhishGuard-AI
 
-This project is a local AI-based phishing detection system built for SOC analysts.
+An AI-powered phishing detection system that helps identify and prevent malicious phishing attempts in real-time using machine learning and intelligent pattern analysis.
 
-## Features
-- Email (.eml) analysis
-- Threat intelligence lookup
-- Risk scoring engine
-- LLM-based phishing report generation
+---
 
-## Folder Structure
-- core/      → core detection logic
-- gui/       → user interface
-- scripts/   → automation & tests
+## 🚀 Features
 
-## Tech Stack
-- Python
-- Local LLM (Ollama / Mistral)
-- RAG (Vector DB)
+- 🔍 Detects phishing URLs and suspicious websites
+- 🤖 AI/ML-based classification model
+- ⚡ Fast and lightweight prediction system
+- 📊 High accuracy phishing detection
+- 🧠 Continuously improvable model
+- 🌐 Easy integration into web or security tools
 
-## Status
-🚧 Under active development
+---
+
+## 🧰 Tech Stack
+
+- Python 🐍
+- Machine Learning (Scikit-learn / TensorFlow / etc.)
+- Pandas & NumPy
+- Flask / FastAPI (if applicable)
+- HTML/CSS/JS (if frontend included)
+
+---
+
+## 📁 Project Structure
+
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mohammednoumanmahadi/PhishGuard-AI.git
+cd PhishGuard-AI
